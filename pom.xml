@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>ru.alerto</groupId>
-    <artifactId>FCS</artifactId>
+    <artifactId>SmartTech Search API</artifactId>
     <version>0.0.1</version>
-    <name>FCS</name>
+    <name>SmartTech Search API</name>
     <packaging>jar</packaging>
 
     <properties>
